@@ -6,4 +6,4 @@ Some description.
 
 Finding out how to commit from vs.
 
-Fixed SSH?
+Fixed email that pushes?
