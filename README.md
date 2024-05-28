@@ -6,4 +6,6 @@ Some description.
 
 Finding out how to commit from vs.
 
-Fixed email that pushes?
+## Local Development
+
+1. Open index.html in your browser
